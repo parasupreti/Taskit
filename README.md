@@ -1,5 +1,5 @@
 # Taskit
-Minor project
+Minor project(See Taskit.apk)
 
 OBJECTIVES
 Our app aim is to provide the user with the more enriched usage of their Android device and help them to customize the features of their phone as per their daily needs/convenience. Users can customize their phones and use the above mentioned features and many more as per their requirements.
